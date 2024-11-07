@@ -78,14 +78,8 @@ This project includes several Tableau dashboards that provide detailed insights 
 
 - `marketing_data.csv` – The cleaned marketing data with customer demographics and purchase behaviors.
 - `ad_data.csv` – The advertisement data with campaign success rates and leads.
-- `2Market_Report.pdf` – Technical report summarizing the analysis, insights, and recommendations.
-- `2Market_Dashboards.twb` – Tableau workbook containing the interactive dashboards.
-
-## How to Use
-
-1. Open the Tableau file `2Market_Dashboards.twb` to explore the interactive dashboards.
-2. Review the `2Market_Report.pdf` for a detailed overview of the analysis and recommendations.
-3. Analyze the `marketing_data.csv` and `ad_data.csv` for further insights into customer behaviors and advertisement performance.
+- `Technical_Report.pdf` – Technical report summarizing the analysis, insights, and recommendations.
+- `Dashboard_Tableau.twb` – Tableau workbook containing the interactive dashboards.
 
 ## Conclusion
 
